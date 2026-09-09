@@ -2,7 +2,7 @@
 
 I'm "Sabrina" a "Full-Stack Developer & AI Engineer".
 
-🎓 "Computer Science & IT Graduate" from "Jamhuriya University of Science & Technology (JUST"
+🎓 "Computer Science & IT Graduate" from "Jamhuriya University of Science & Technology (JUST)"
 
 I’m passionate about "programming, AI, and building real-world applications" I enjoy turning ideas into useful products, solving problems, and continuously learning new technologies.
 
